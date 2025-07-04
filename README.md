@@ -1,6 +1,6 @@
 # Web Scraping for Economic Applications
 
-This project demonstrates how to build a web scraping routine in Python to collect structured data from websites. The collected data can be used for economic research, visualizations, or automated updates on a personal or academic website.
+This project demonstrates how to build a web scraping routine in Python to collect structured data from websites. The collected data can be used for economic research.
 
 ## 📌 Project Objective
 
